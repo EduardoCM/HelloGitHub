@@ -4,7 +4,7 @@ public class IsmaelMusico {
 private String genero;
 private String instrumento;
 
-	private void tocarCancion(){
+	public void tocarCancion(){
 		
 	}
 
